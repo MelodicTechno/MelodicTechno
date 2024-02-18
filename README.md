@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a simple software
 - 📫 How to reach me CS2223515409@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm an undergraduate in XJTU. I like the cartoon series Adventure Time. Melodic Techno is a genere of EDM I like.
+- ⚡ Fun fact: I'm an undergraduate at XJTU. I like the cartoon series Adventure Time. Melodic Techno is a genere of EDM I like.
 
 <!---
 MelodicTechno/MelodicTechno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

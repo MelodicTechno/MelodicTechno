@@ -7,7 +7,7 @@ Sad :(
 
 <img align="left" src="https://api.moedog.org/count/@MelodicTechno?theme=asoul" alt="@MelodicTechno" />
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=cpp,python,pytorch,js)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=cpp,python,pytorch,ts)
 [![Languages I use](https://skillicons.dev/icons?i=vscode,bash)](https://skillicons.dev)
 
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)

@@ -3,7 +3,7 @@
 
 The name is Shi. I'm not a good person and I wonder when you will hate me.
 
-<img align="left" src="https://api.moedog.org/count/@MelodicTechno?theme=asoul" alt="@MelodicTechno" /> # gelbooru-h
+<img align="left" src="https://api.moedog.org/count/@MelodicTechno?theme=asoul" alt="@MelodicTechno" />
 
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=cpp,python,pytorch,js,vue,java,rust,go,latex)
 [![Languages I use](https://skillicons.dev/icons?i=vscode,ableton)](https://skillicons.dev)

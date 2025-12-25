@@ -1,3 +1,4 @@
+moi, my name is shi chen aka ihs
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=cpp,python,js,vue,java,rust,go)
 [![Languages I use](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
 
